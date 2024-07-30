@@ -38,6 +38,7 @@ Vue.component("simple_header_component_1722344156", {
                                 <li id="nav-item-1"><a href="#" class="block py-2 pl-3 pr-4 text-black border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0">Advanced On-chain Data Analysis</a></li>
                                 <li id="nav-item-2"><a href="#" class="block py-2 pl-3 pr-4 text-black border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0">Smart Contract Auditing Tools</a></li>
                                 <li id="nav-item-3"><a href="#" class="block py-2 pl-3 pr-4 text-black border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0">Custom Dashboard and Reporting</a></li>
+                                <li><button class="px-4 py-2 bg-purple-600 text-white rounded-lg shadow-md hover:bg-purple-700">Hey there</button></li>
                             </ul>
                         </div>
                     </div>
