@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like this 'Hello World' button to be positioned in your app?\", \"option1\": \"In the main navigation menu\", \"option2\": \"At the bottom of the homepage\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a popup message with 'Hello World'\", \"option2\": \"Navigate to a new page titled 'Hello World'\"}], \"input_token_count\": 261, \"output_token_count\": 104, \"time_taken\": \"0:00:10.829518\"}",
+        "message_id": "guest30072024130455",
+        "timestamp": "30072024130508",
+        "component_file_name": "simple_hero_component_1722344156",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a button with text \"Hello World\".",
         "message_id": "guest30072024130455",
