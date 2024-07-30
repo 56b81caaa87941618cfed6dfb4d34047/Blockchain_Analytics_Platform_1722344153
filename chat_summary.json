@@ -36,5 +36,11 @@
         "content": "Got it. Adding a submit button to the project.",
         "timestamp": "30072024130336",
         "message_id": "guest30072024130335"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Submit' button to be placed within the app's interface?\", \"option1\": \"At the bottom of the form\", \"option2\": \"Fixed at the bottom of the screen, visible while scrolling\"}, {\"question 2\": \"What action should occur when the 'Submit' button is pressed?\", \"option1\": \"Send the data to a server and show a success message\", \"option2\": \"Store the data locally on the device for later submission\"}], \"input_token_count\": 260, \"output_token_count\": 113, \"time_taken\": \"0:00:05.843750\"}",
+        "timestamp": "30072024130342",
+        "message_id": "guest30072024130335"
     }
 ]
