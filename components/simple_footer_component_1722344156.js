@@ -3,30 +3,30 @@
 Vue.component("simple_footer_component_1722344156", {
     template: `
     <div class="flex">
-        <div class="w-64 bg-gray-100 dark:bg-gray-700 h-screen">
+        <div class="w-64 bg-white dark:bg-gray-800 h-screen shadow-lg">
             <nav class="mt-5">
-                <a href="#" class="block py-2 px-4 text-gray-700 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-600">Home</a>
-                <a href="#" class="block py-2 px-4 text-gray-700 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-600">About</a>
-                <a href="#" class="block py-2 px-4 text-gray-700 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-600">Contact</a>
+                <a href="#" class="block py-2 px-4 text-black dark:text-white hover:bg-purple-100 dark:hover:bg-purple-800">Home</a>
+                <a href="#" class="block py-2 px-4 text-black dark:text-white hover:bg-purple-100 dark:hover:bg-purple-800">About</a>
+                <a href="#" class="block py-2 px-4 text-black dark:text-white hover:bg-purple-100 dark:hover:bg-purple-800">Contact</a>
             </nav>
         </div>
         <div class="flex-1">
             <footer id="footer-section" class="flex-1 bg-white dark:bg-gray-800">
-                <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
-                    <hr id="footer-divider" class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
+                <div id="footer-container" class="max-w-screen-xl p-6 py-8 mx-auto lg:py-16 md:p-10 lg:p-12">
+                    <hr id="footer-divider" class="my-8 border-purple-200 sm:mx-auto dark:border-purple-700 lg:my-10">
                     <div id="footer-content" class="text-center">
                         <div class="flex">
-                            <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
-                                <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
+                            <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-6 text-3xl font-bold text-black dark:text-white">
+                                <img id="footer-logo" src="./images/logo.svg" class="h-8 mr-4 sm:h-10" alt="Landwind Logo" />
                                 Blockchain Analytics Suite
                             </a>
                         </div>
                     </div>
                     <div class="flex">
-                        <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
+                        <div id="footer-text" class="flex-1 block text-base text-center text-black dark:text-white">
                             Stay ahead of the curve with our cutting-edge blockchain analysis tools. Gain invaluable insights into emerging trends and opportunities.
                             Stay ahead of the curve with our cutting-edge blockchain analysis tools. Gain invaluable insights into emerging trends and opportunities.
-                            <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">
+                            <button class="mt-6 px-6 py-3 bg-purple-600 text-white rounded-lg shadow-md hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50">
                                 Submit
                             </button>
                         </div>
