@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be always visible or to appear dynamically as a slide-in on certain actions?\", \"option1\": \"Always visible\", \"option2\": \"Slide-in dynamically\"}, {\"question 2\": \"Should the sidebar navigation links be text-only, or do you want icons accompanying the text?\", \"option1\": \"Text-only\", \"option2\": \"Text with icons\"}], \"input_token_count\": 266, \"output_token_count\": 93, \"time_taken\": \"0:00:04.991192\"}",
+        "message_id": "guest30072024131156",
+        "timestamp": "30072024131202",
+        "component_file_name": "simple_footer_component_1722344156",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, working on adding sidebar with home, about, and contact.",
         "message_id": "guest30072024131156",
