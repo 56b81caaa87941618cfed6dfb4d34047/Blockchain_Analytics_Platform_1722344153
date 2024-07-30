@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly would you like the 'Hey There' button to be positioned on the app's interface?\", \"option1\": \"On the main screen, accessible at all times\", \"option2\": \"Within a specific section of the app, please specify\"}, {\"question 2\": \"What action should occur when the 'Hey There' button is pressed?\", \"option1\": \"Open a new page or section within the app\", \"option2\": \"Trigger a popup message or interaction\"}], \"input_token_count\": 261, \"output_token_count\": 112, \"time_taken\": \"0:00:06.584355\"}",
+        "message_id": "guest30072024130315",
+        "timestamp": "30072024130324",
+        "component_file_name": "simple_header_component_1722344156",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a button that says \"hey there\".",
         "message_id": "guest30072024130315",
