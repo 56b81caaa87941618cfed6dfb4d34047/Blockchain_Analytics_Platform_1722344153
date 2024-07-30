@@ -31,7 +31,16 @@ Vue.component("simple_hero_component_1722344156", {
                     <img id="hero-image" src="./images/hero.png" alt="hero image">
                 </div>
             </div>
-        </section>            
+        </section>
+        <footer class="bg-gray-800 text-white p-8">
+            <nav>
+                <ul class="space-y-4">
+                    <li><a href="#" class="hover:text-gray-300">Home</a></li>
+                    <li><a href="#" class="hover:text-gray-300">About</a></li>
+                    <li><a href="#" class="hover:text-gray-300">Contact</a></li>
+                </ul>
+            </nav>
+        </footer>
     `,
     data() {
         return {
